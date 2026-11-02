@@ -18,7 +18,7 @@ Name of the Application	:**
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-**Sample lass Diagram:**
+**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
