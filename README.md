@@ -2,11 +2,10 @@
 
 ## Project Proposal Template
 
-**Project Title or 
-Name of the Application	:**
-**Section			   	      :**
-**Group Members			    :**
-**Date (Proposal Date)  :**
+### Project Title or Name of the Application	:
+### Section			   	      :
+### Group Members			    :
+### Date (Proposal Date)  :
 
 ### Project Description:
 
