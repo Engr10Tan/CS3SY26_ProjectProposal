@@ -20,7 +20,7 @@ Name of the Application	:**
 
 **Class Diagram:**
 
-
+[!Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
 
