@@ -1,11 +1,12 @@
 # CS3SY26_ProjectProposal by AlMendiza
 
+
 ## Project Proposal Template
 
 ### Project Title or Name of the Application	:
 ### Section			   	      :
 ### Group Members			    :
-### Date (Proposal Date)  :
+### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
 
