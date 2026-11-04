@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal
+# CS3SY26_ProjectProposal by AlMendiza
 
 ## Project Proposal Template
 
