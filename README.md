@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal by AlMendoza
+# CS3SY26_ProjectProposal by AlMendozaof CSt Unit
 
 
 ## Project Proposal Template
