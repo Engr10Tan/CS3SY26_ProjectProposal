@@ -1,7 +1,7 @@
-# CS3SY26_ProjectProposal by AlMendoza
+# CS3SY26_ProjectProposal by AlMendoza from CS
 
 
-## Project Proposal Template
+## Project Proposal Template gkkhkj
 
 ### Project Title or Name of the Application	:
 ### Section			   	      :
