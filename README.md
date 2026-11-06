@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal by ATLMendoza from CS Unit
+# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit
 
 
 ## Project Proposal Template gkkhkj
