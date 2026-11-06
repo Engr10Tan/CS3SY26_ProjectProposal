@@ -1,7 +1,7 @@
 # CS3SY26_ProjectProposal by ATLMendoza from CS Unit
 
 
-## Project Proposal Template gkkhkj
+## Project Proposal Template
 
 ### Project Title or Name of the Application	:
 ### Section			   	      :
