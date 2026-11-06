@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal by AlMendoza from CS
+# CS3SY26_ProjectProposal by AlMendoza from CS Unit
 
 
 ## Project Proposal Template gkkhkj
